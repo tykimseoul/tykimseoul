@@ -27,9 +27,13 @@
   
 ---
 
-
 <img
-  align="left"
+  align="center"
   alt="tykimseoul's GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tykimseoul&count_private=true&layout=compact"
+  src="https://github-readme-stats.vercel.app/api?username=tykimseoul&exclude_repo=pintos&count_private=true&show_icons=true"
+/>
+<img
+  align="center"
+  alt="tykimseoul's GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tykimseoul&exclude_repo=pintos&hide=tex,jupyter%20notebook&count_private=true&layout=compact&langs_count=10"
 />
