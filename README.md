@@ -46,5 +46,10 @@
 <img
   align="center"
   alt="tykimseoul's GitHub Stats"
+  src="http://github-readme-streak-stats.herokuapp.com?user=tykimseoul&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"
+/>
+<img
+  align="center"
+  alt="tykimseoul's GitHub Stats"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=tykimseoul&exclude_repo=pintos&hide=tex,jupyter%20notebook&count_private=true&layout=compact&langs_count=10&theme=tokyonight"
 />
